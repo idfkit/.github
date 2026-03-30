@@ -17,9 +17,9 @@ idfkit gives you everything you need to model, simulate, and optimize building e
 | | Repository | Description |
 |---|---|---|
 | ⚡ | [**idfkit**](https://github.com/idfkit/idfkit) | Core Python toolkit — O(1) lookups, reference tracking, IDF + epJSON, weather, simulation |
-| 🏗️ | [**idfkit-app**](https://github.com/idfkit/idfkit-app) | Envelop — browser-native EnergyPlus editor with visual HVAC design and 3D geometry |
-| 🤖 | [**idfkit-mcp**](https://github.com/idfkit/idfkit-mcp) | MCP server exposing 25 AI tools for schema, modeling, weather, and simulation |
-| 🧠 | [**idfkit-lsp**](https://github.com/idfkit/idfkit-lsp) | Language Server + VS Code extension for intelligent EnergyPlus Python editing |
+| 🏗️ | [**idfkit-app**](https://github.com/idfkit/idfkit-app) | Envelop — browser-native EnergyPlus editor with visual HVAC design and 3D geometry viewer |
+| 🤖 | [**idfkit-mcp**](https://github.com/idfkit/idfkit-mcp) | MCP server exposing 32 AI tools for modeling, simulation, weather, validation, and docs |
+| 🧠 | [**idfkit-lsp**](https://github.com/idfkit/idfkit-lsp) | Language Server + VS Code extension for intelligent idfkit Python development |
 | 📖 | [**idfkit-docs**](https://github.com/idfkit/idfkit-docs) | Interactive EnergyPlus Input/Output reference documentation |
 | 🌐 | [**idfkit.com**](https://github.com/idfkit/idfkit.com) | Project website and ecosystem hub |
 
@@ -43,7 +43,7 @@ doc.save("updated.idf")
 - **4,000x faster** lookups than legacy tools via O(1) indexed collections
 - **IDF + epJSON** — read, write, and convert between both formats
 - **55,000+ weather stations** — search by location, download EPW/DDY files
-- **AI-native** — MCP server with 25 tools for autonomous agent workflows
+- **AI-native** — MCP server with 32 tools for autonomous agent workflows
 - **Zero install web editor** — visual HVAC design and in-browser simulation
 
 ---
