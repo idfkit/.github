@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/idfkit/idfkit-brand/releases/download/identity-2026.1/lockup-on-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/idfkit/idfkit-brand/releases/download/identity-2026.1/lockup-on-light.svg">
-    <img alt="idfkit" width="240" src="https://github.com/idfkit/idfkit-brand/releases/download/identity-2026.1/tile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idfkit/idfkit-brand/identity-2026.1/marks/lockup-on-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idfkit/idfkit-brand/identity-2026.1/marks/lockup-on-light.svg">
+    <img alt="idfkit" width="240" src="https://raw.githubusercontent.com/idfkit/idfkit-brand/identity-2026.1/marks/tile.svg">
   </picture>
 </p>
 
