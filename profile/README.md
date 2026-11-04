@@ -24,7 +24,6 @@ Open-source tooling for EnergyPlus building energy simulation, in Python, TypeSc
 - [idfkit.com](https://github.com/idfkit/idfkit.com): The idfkit website: the front door to the toolkit, the editor, the server and the documentation.
 - [idfkit-shoebox](https://github.com/idfkit/idfkit-shoebox): EnergyPlus in the browser: a client-side shoebox model on a drafting sheet.
 - [idfkit-conformance](https://github.com/idfkit/idfkit-conformance): The conformance corpus and governance registers that hold idfkit and idfkit-js to one behaviour.
-- [idfkit-auth](https://github.com/idfkit/idfkit-auth): The sign-in page for the hosted idfkit services, built on the provider's hosted widget.
 
 ## Hosts
 
@@ -34,7 +33,6 @@ Open-source tooling for EnergyPlus building energy simulation, in Python, TypeSc
 - [app.idfkit.com](https://app.idfkit.com): idfkit Envelop, the web-based EnergyPlus editor.
 - [mcp.idfkit.com](https://mcp.idfkit.com): the hosted MCP server.
 - [shoebox.idfkit.com](https://shoebox.idfkit.com): Shoebox, EnergyPlus in the browser.
-- [auth.idfkit.com](https://auth.idfkit.com): sign-in for the hosted services.
 
 ## Quick start
 
